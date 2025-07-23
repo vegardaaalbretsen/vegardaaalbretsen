@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>an AI-driven helpdesk system at Digdir that uses a custom RAG pipeline to answer questions based on internal documentation.<br>🌱 I’m currently learning<br>about prompt engineering, semantic search tuning, vector DB quirks, and how to scale AI systems in messy, real-world orgs.<br>⚡ Fun fact:<br>I enjoy playing disc golf
+🔭 I’m currently working on<br>an AI-driven helpdesk system at Digdir that uses a custom RAG pipeline to answer questions based on internal documentation.<br><br>
+🌱 I’m currently learning<br>about prompt engineering, semantic search tuning, vector DB quirks, and how to scale AI systems in messy, real-world orgs.<br><br>
+⚡ Fun fact:<br>I enjoy playing disc golf
 
 
 ## 🌐 Socials:
