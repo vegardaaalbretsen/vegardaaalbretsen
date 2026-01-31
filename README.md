@@ -1,7 +1,8 @@
 # 💫 About Me:
 📚 I'm currently in the first semester of a 2 year masters in Computer Science at NTNU Trondheim with a specialization in Artificial Intelligence <br><br>
-🔜 My upcoming project is the RegulAId project through Cogito at NTNU <br><br>
-🔭 My last project was:<br>an AI-driven helpdesk system at Digdir that uses a custom RAG pipeline to answer questions based on internal documentation.<br><br>
+🔜 My upcoming project is Stock movement prediction project through Cogito at NTNU <br><br>
+🔭 My last two project were:<br> the RegulAId project through Cogito, where we made a program to help navigate the complicated EU AI Act.
+<br>an AI-driven helpdesk system at Digdir that uses a custom RAG pipeline to answer questions based on internal documentation.<br><br>
 🌱 I’m currently learning:<br>about prompt engineering, semantic search tuning, vector DB quirks, and how to scale AI systems in messy, real-world organisations.<br><br>
 ⚡ Fun facts:<br> My coding adventure started by making popular web games like space race, duck hunt and snake in Javascript in VGS (2020) <br>I enjoy playing disc golf
 
